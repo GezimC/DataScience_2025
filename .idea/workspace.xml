@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b38840-4ca8-48c5-bf93-b757217d6ba5" name="Changes" comment="" />
+    <list default="true" id="35b38840-4ca8-48c5-bf93-b757217d6ba5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonCrashCourse/02-BasicSyntax_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonCrashCourse/02-BasicSyntax_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. DataAnalysis/01_NumPy_Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2. DataAnalysis/01_NumPy_Basics.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +82,10 @@
       <workItem from="1741770486514" duration="641000" />
       <workItem from="1741803766368" duration="33000" />
       <workItem from="1741968279745" duration="108000" />
+      <workItem from="1741995708514" duration="303000" />
+      <workItem from="1741996184340" duration="23000" />
+      <workItem from="1741996396467" duration="13000" />
+      <workItem from="1742151496638" duration="3190000" />
     </task>
     <servers />
   </component>
