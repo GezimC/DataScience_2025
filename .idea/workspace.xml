@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="35b38840-4ca8-48c5-bf93-b757217d6ba5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. PythonCrashCourse/02-BasicSyntax_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonCrashCourse/02-BasicSyntax_2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. DataAnalysis/01_NumPy_Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2. DataAnalysis/01_NumPy_Basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. DataAnalysis/01_NumPy_Basics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2. DataAnalysis/numPy/01_NumPy_Basics.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. DataAnalysis/02_NumPY_Advance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2. DataAnalysis/numPy/02_NumPY_Advance.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Data Disk D\Gezimi's folder\Cacttus\2024-2025\Analiza dhe vizuelizimi i te dhenave\Ushtrime - github\Data Science\2. DataAnalysis\numPy" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,7 +91,11 @@
       <workItem from="1741995708514" duration="303000" />
       <workItem from="1741996184340" duration="23000" />
       <workItem from="1741996396467" duration="13000" />
-      <workItem from="1742151496638" duration="3190000" />
+      <workItem from="1742151496638" duration="3481000" />
+      <workItem from="1742202497250" duration="134000" />
+      <workItem from="1742227937272" duration="185000" />
+      <workItem from="1742228741036" duration="129000" />
+      <workItem from="1742243400180" duration="655000" />
     </task>
     <servers />
   </component>
