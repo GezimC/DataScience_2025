@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b38840-4ca8-48c5-bf93-b757217d6ba5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Recap_exercises/2/Python_Numpy_Pandas_2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recap_exercises/2/hr_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recap_exercises/1/Python_NumPy_Pandas_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Recap_exercises/1/Python_NumPy_Pandas_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +112,12 @@
       <workItem from="1744283551467" duration="669000" />
       <workItem from="1744306142174" duration="167000" />
       <workItem from="1744309342824" duration="1746000" />
-      <workItem from="1744474777547" duration="5769000" />
+      <workItem from="1744474777547" duration="6270000" />
+      <workItem from="1744481139655" duration="441000" />
+      <workItem from="1744483416583" duration="136000" />
+      <workItem from="1744611676502" duration="438000" />
+      <workItem from="1744622923157" duration="603000" />
+      <workItem from="1744637777762" duration="758000" />
     </task>
     <servers />
   </component>
@@ -127,12 +129,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/Recap_exercises/2/Python_Numpy_Pandas_2.ipynb</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Recap_exercises/2/Python_Numpy_Pandas_2.ipynb</url>
-          <line>267</line>
+          <line>262</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
