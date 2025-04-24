@@ -35,6 +35,9 @@
     &quot;accountId&quot;: &quot;4a9120bf-9849-452d-b0a2-e9a03710bf19&quot;
   }
 }</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -46,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
@@ -69,14 +73,6 @@
       <recent name="D:\Data Disk D\Gezimi's folder\Cacttus\2024-2025\Analiza dhe vizuelizimi i te dhenave\Ushtrime - github\Data Science\Homework\1" />
       <recent name="D:\Data Disk D\Gezimi's folder\Cacttus\2024-2025\Analiza dhe vizuelizimi i te dhenave\Ushtrime - github\Data Science\2. DataAnalysis\numPy" />
     </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.25659.43" />
-        <option value="bundled-python-sdk-181015f7ab06-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.25659.43" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -118,21 +114,14 @@
       <workItem from="1744611676502" duration="438000" />
       <workItem from="1744622923157" duration="603000" />
       <workItem from="1744637777762" duration="758000" />
+      <workItem from="1744646989744" duration="1217000" />
+      <workItem from="1744650636747" duration="15000" />
+      <workItem from="1744650662354" duration="829000" />
+      <workItem from="1744743385214" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Recap_exercises/2/Python_Numpy_Pandas_2.ipynb</url>
-          <line>262</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
