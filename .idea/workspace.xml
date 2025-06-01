@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="35b38840-4ca8-48c5-bf93-b757217d6ba5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4. ML/LinearReg/1/01-Linear Regression with Python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4. ML/LinearReg/1/USA_Housing.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +138,10 @@
       <workItem from="1747590834864" duration="385000" />
       <workItem from="1747927995879" duration="85000" />
       <workItem from="1748085901054" duration="2269000" />
+      <workItem from="1748088208288" duration="136000" />
+      <workItem from="1748273238597" duration="10000" />
+      <workItem from="1748364993412" duration="483000" />
+      <workItem from="1748589584457" duration="58000" />
     </task>
     <servers />
   </component>
